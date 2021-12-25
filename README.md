@@ -5,6 +5,6 @@
 
 <div align=center>
   
-  [![image](https://www.youtube.com/watch?v=t-0Ru8HBHEc&list=PLTg9c7k4CtEA-J2A4-YoC4uCYAC_Nhc0h)
+  [![image](http://img.youtube.com/vi/t-0Ru8HBHEc/0.jpg)](https://youtu.be/t-0Ru8HBHEc?list=PLTg9c7k4CtEA-J2A4-YoC4uCYAC_Nhc0h)
   
 </div>
