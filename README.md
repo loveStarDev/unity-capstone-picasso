@@ -1,2 +1,10 @@
 # 2019-2-Capstone
 2019-2 캡스톤 프로젝트 '방구석 피카소'
+
+# 게임 실행 영상
+
+<div align=center>
+  
+  [![image](https://www.youtube.com/watch?v=t-0Ru8HBHEc&list=PLTg9c7k4CtEA-J2A4-YoC4uCYAC_Nhc0h)
+  
+</div>
